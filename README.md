@@ -1,6 +1,6 @@
 # Skills App UI
 
-I love learning, I sometimes read read 2 books a day, do lot of courses from neuroscience to finance, to design, so thought of making skills App 
+I love learning, I sometimes read 2 books a day, do lot of courses from neuroscience to finance, to design, so thought of making skills App 
 
 
 #### Screenshots
