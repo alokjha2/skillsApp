@@ -1,16 +1,19 @@
-# uimentalhealth
+# Skills App UI
 
-A new Flutter project.
+I love learning, I sometimes read read 2 books a day, do lot of courses from neuroscience to finance, to design, so thought of making skills App 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#### Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td>Home Page</td>
+    <td>Skills App</td>
+    <td>Learn english</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/screen_3.png" width=270 height=480></td>
+    <td><img src="screenshots/screen_2.png" width=270 height=480></td>
+    <td><img src="screenshots/screen_1.png" width=270 height=480></td>
+  </tr>
+ </table>
